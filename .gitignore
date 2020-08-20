@@ -1,1 +1,7 @@
-rogue
+.idea/
+cmake-build-debug/
+CMakeFiles/
+*Cache*
+*.cmake
+*.cbp
+olcRogue
